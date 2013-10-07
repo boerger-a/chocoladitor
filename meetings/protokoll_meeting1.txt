@@ -1,0 +1,28 @@
+Zeitraum bei den Performance Requirements
+
+Endpunkt für das Projekt ist die Kundenpräsentation im 4. Semester
+Project Objectives etwas genauer spezifizieren
+Non-objectives falsch
+Design für das Backend fehlt
+Ziele sind zu wenig messbar (10 - 20% Kundensteigerung in den nächsten 2 Jahren)
+Nicht ziele (zB Alle Zutaten in eine Schokolade bringen, 100% Verfügbarkeit)
+Relevante Dokumente (Pre- and Post Project Phase) (SRS, Abnahmeprotokoll, Mail Protokolle)
+Project Invironment überarbeiten (Zulieferer fehlt, Gesundheitsamt, ...)
+Projektstrukturplan gehört neu gemacht (zB Projmanagementphase fehlt)
+
+Beim Editor geht es nur um die Zusamensetzung der Zutaten
+Selbst erstellte Schokoladen kann der Administrator im Backend auswählen und öffentlich verfübar machen
+Backend soll informationen bieten welche Zutaten und Produkte am meisten verkauft wurden
+Unternehmen produziert selbst
+Strategie des Unternehmens ist Expansion (ins Web gehen, bessere Verwaltung durchs Backend, generell unterstützt es die Kernprozesse)
+
+
+
+Order Process sollte größer gefasst sein (Verfügbarkeit prüfen, ...)
+
+Zahlungsprozess soll realistisch eingebunden sein
+E-Mail Interface einfach über SMTP Daten versenden
+
+Design Constraints (UI)
+
+
